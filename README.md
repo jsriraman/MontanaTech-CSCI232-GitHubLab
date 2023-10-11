@@ -1,5 +1,15 @@
 # Montana Tech GitHub Basics Lab
 In this lab, you will become familiar with GitHub as well as the importance of it.
+## Submission Information
+- **Name:** Jacob Sriraman
+- **Course:** CSCI 232, Section 1, Data Structures and Algorithms
+- **Due:** TBD 
+- **Github:** [View the rest of my Github here](https://github.com/jsriraman)
+- **Favorites** Favorite seasons:
+ 1. Spring
+ 2. Fall
+ 3. Summer
+
 
 ## Objectives
 - Learn how to fork a repository
